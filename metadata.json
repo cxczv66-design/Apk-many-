@@ -1,0 +1,6 @@
+{
+  "name": "MobileForge IDE",
+  "description": "Android Studio مصغّر لتطوير وبناء وتصميم تطبيقات أندرويد مباشرة من الهاتف",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
